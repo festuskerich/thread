@@ -1,0 +1,7 @@
+
+async:
+  config:
+   corepoolsize=5
+   maxpoolsize=10
+   queueCapacity=100
+ 
